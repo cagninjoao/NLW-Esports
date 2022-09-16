@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # NLW eSports
 
 ![preview](./.github/preview-project.png)
@@ -16,4 +18,4 @@ Projeto construído durante o evento NLW da Rocketseat.
 
 ## Contato
 
-cagninjoao.dev@gmail.com
+# cagninjoao.dev@gmail.com
