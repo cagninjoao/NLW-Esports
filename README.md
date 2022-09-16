@@ -1,1 +1,1 @@
-# NLW-Esports - Projeto criado para o NLW-Esports, evento proporcionado pela plataforma de tecnologia da Rocketseat. Foram utilizadas as tecnologias de marcação de texto HTML para fazer a parte estrutural e o CSS para fazer a parte do design do projeto.
+
